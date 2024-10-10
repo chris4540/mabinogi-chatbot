@@ -1,4 +1,4 @@
-# mabinogi-chatbot
+# mabinogi-enchant-chatbot
 
 This is my hobby project to make data checking easiler. The main focus shall be enchant, and the additional goal is the reforge.
 
